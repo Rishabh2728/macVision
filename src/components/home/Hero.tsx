@@ -33,7 +33,7 @@ export default function Hero() {
         />
       </div>
 
-      <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 sm:pt-20 lg:pt-32 pb-16 sm:pb-24 lg:pb-28">
+      <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-5 sm:pt-7 lg:pt-10 pb-12 sm:pb-16 lg:pb-20">
         <div className="max-w-3xl">
           {/* Eyebrow badge with gold accent */}
           <div className="inline-flex flex-wrap items-center gap-1.5 sm:gap-2 px-3 sm:px-3.5 py-1 sm:py-1.5 rounded-full bg-white/10 backdrop-blur-md border border-[#F4C62E]/30 mb-5 sm:mb-6 shadow-sm max-w-full">
