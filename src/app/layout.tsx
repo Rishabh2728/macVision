@@ -3,6 +3,7 @@ import { Cormorant_Garamond, Inter } from "next/font/google";
 import "./globals.css";
 import Navbar from "@/components/layout/Navbar";
 import Footer from "@/components/layout/Footer";
+import MaviChatbot from "@/components/chat/MaviChatbot";
 import { SCHOOL_INFO } from "@/data/schoolInfo";
 
 const cormorant = Cormorant_Garamond({
@@ -92,6 +93,7 @@ export default function RootLayout({
         <Navbar />
         <main className="flex-1">{children}</main>
         <Footer />
+        <MaviChatbot />
       </body>
     </html>
   );
