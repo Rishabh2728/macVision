@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 70" fill="none">
+  <!-- Crest Shield -->
+  <g transform="translate(6, 5)">
+    <!-- Shield Background -->
+    <path d="M30 2 C44 2 56 10 56 24 C56 44 30 56 30 58 C30 56 4 44 4 24 C4 10 16 2 30 2 Z" fill="#102A63" stroke="#F4C62E" stroke-width="2.5" stroke-linejoin="round"/>
+    
+    <!-- Inner Gold Border -->
+    <path d="M30 6 C41 6 51 13 51 24 C51 40 30 50 30 52 C30 50 9 40 9 24 C9 13 19 6 30 6 Z" fill="none" stroke="#F4C62E" stroke-width="1" stroke-opacity="0.6"/>
+    
+    <!-- Radiant Torch / Sunburst -->
+    <circle cx="30" cy="18" r="4.5" fill="#F4C62E"/>
+    <path d="M30 9 L30 12 M23 12 L25 14 M37 12 L35 14 M20 18 L23 18 M37 18 L40 18" stroke="#F4C62E" stroke-width="1.5" stroke-linecap="round"/>
+    
+    <!-- Open Book in Shield -->
+    <path d="M30 38 C25 34 18 34 14 36 L14 43 C18 41 25 41 30 44 C35 41 42 41 46 43 L46 36 C42 34 35 34 30 38 Z" fill="#FFFFFF"/>
+    <path d="M30 38 L30 44" stroke="#102A63" stroke-width="1.2"/>
+    <path d="M21 37 C24 36 27 36.5 29 38" stroke="#F4C62E" stroke-width="1"/>
+    <path d="M39 37 C36 36 33 36.5 31 38" stroke="#F4C62E" stroke-width="1"/>
+    
+    <!-- Small Decorative Stars -->
+    <polygon points="17,26 18,28 20,28 18.5,29 19,31 17,30 15,31 15.5,29 14,28 16,28" fill="#F4C62E"/>
+    <polygon points="43,26 44,28 46,28 44.5,29 45,31 43,30 41,31 41.5,29 40,28 42,28" fill="#F4C62E"/>
+  </g>
+
+  <!-- Brand Typography -->
+  <text x="76" y="32" font-family="'Cormorant Garamond', 'DM Serif Display', Georgia, serif" font-size="25" font-weight="700" fill="#102A63" letter-spacing="-0.3">MacVision Aviraj</text>
+  <text x="77" y="47" font-family="'Inter', 'Manrope', system-ui, sans-serif" font-size="8.5" font-weight="700" fill="#C59A27" letter-spacing="2.8">WORLD SCHOOL • DHARUHERA</text>
+  <text x="77" y="57" font-family="'Inter', 'Manrope', system-ui, sans-serif" font-size="6.5" font-weight="600" fill="#64748B" letter-spacing="1">AFFILIATED TO CBSE, NEW DELHI</text>
+</svg>
